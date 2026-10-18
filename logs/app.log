@@ -1,0 +1,636 @@
+[2025-05-14 13:15:39,945] DEBUG [scanner.views] Received URL from form: https://vishal-038.github.io/Portfolio__/
+[2025-05-14 13:15:39,959] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Portfolio__/ (f5ae391c-7644-4cf4-99a1-98432257888d)
+[2025-05-14 13:15:39,959] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Portfolio__/
+[2025-05-14 13:15:39,963] INFO [scanner] Starting scraper for https://vishal-038.github.io/Portfolio__/ (site ID: f5ae391c-7644-4cf4-99a1-98432257888d)
+[2025-05-14 13:15:39,987] INFO [scanner] [+] Scanning (1): https://vishal-038.github.io/Portfolio__
+[2025-05-14 13:15:41,869] INFO [scanner] [+] Scanning (2): https://vishal-038.github.io/Chickpeas
+[2025-05-14 13:15:42,586] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/EmpowerUFitness
+[2025-05-14 13:15:43,281] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/IBM BC0202EN Certificate _ Cognitive Class.pdf
+[2025-05-14 13:15:43,702] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/IBM BC0202EN Certificate _ Cognitive Class.pdf: 'utf-8' codec can't decode byte 0xd3 in position 10: invalid continuation byte
+[2025-05-14 13:15:43,702] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/Machine Learning And Deep Learning - Fundamentals _231118_224232 (1).pdf
+[2025-05-14 13:15:44,364] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/Machine Learning And Deep Learning - Fundamentals _231118_224232 (1).pdf: 'utf-8' codec can't decode byte 0xa1 in position 11: invalid start byte
+[2025-05-14 13:15:44,365] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/Vishal  (4).pdf
+[2025-05-14 13:15:44,972] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/Vishal  (4).pdf: 'utf-8' codec can't decode byte 0xe2 in position 10: invalid continuation byte
+[2025-05-14 13:15:44,972] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/Vishal_resume.pdf
+[2025-05-14 13:15:45,298] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/Vishal_resume.pdf: 'utf-8' codec can't decode byte 0xbf in position 10: invalid start byte
+[2025-05-14 13:15:45,299] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/www.linkedin.com/in/vishal-datascience
+[2025-05-14 13:15:45,629] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/www.linkedin.com/in/vishal-datascience
+[2025-05-14 13:15:45,629] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Youtube_clone
+[2025-05-14 13:15:46,244] INFO [scanner] [+] Scanning (5): https://vishal-038.github.io/gym
+[2025-05-14 13:15:46,860] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/assests/menu.jpg
+[2025-05-14 13:15:47,164] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/assests/menu.jpg
+[2025-05-14 13:15:47,165] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/about.html
+[2025-05-14 13:15:47,471] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/about.html
+[2025-05-14 13:15:47,471] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/contact.html
+[2025-05-14 13:15:47,749] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/contact.html
+[2025-05-14 13:15:47,749] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/index.html
+[2025-05-14 13:15:48,200] INFO [scanner] [+] Scanning (7): https://vishal-038.github.io/Portfolio__/signup.html
+[2025-05-14 13:15:48,494] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/signup.html
+[2025-05-14 13:15:48,494] INFO [scanner] [+] Scanning (7): https://vishal-038.github.io/Portfolio__/workout.html
+[2025-05-14 13:15:48,802] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/workout.html
+[2025-05-14 13:15:48,802] INFO [scanner] [✓] Scraping complete.
+[2025-05-14 13:35:25,519] DEBUG [scanner.views] Received URL from form: https://vishal-038.github.io/Portfolio__/
+[2025-05-14 13:35:25,529] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Portfolio__/ (f5ae391c-7644-4cf4-99a1-98432257888d)
+[2025-05-14 13:35:25,529] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Portfolio__/
+[2025-05-14 13:35:25,532] INFO [scanner] Starting scraper for https://vishal-038.github.io/Portfolio__/ (site ID: f5ae391c-7644-4cf4-99a1-98432257888d)
+[2025-05-14 13:35:25,572] INFO [scanner] [+] Scanning (1): https://vishal-038.github.io/Portfolio__
+[2025-05-14 13:35:27,328] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Portfolio__
+[2025-05-14 13:35:27,346] INFO [scanner] [+] Scanning (2): https://vishal-038.github.io/Chickpeas
+[2025-05-14 13:35:27,940] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Chickpeas
+[2025-05-14 13:35:27,954] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/EmpowerUFitness
+[2025-05-14 13:35:28,537] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/EmpowerUFitness
+[2025-05-14 13:35:28,538] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/IBM BC0202EN Certificate _ Cognitive Class.pdf
+[2025-05-14 13:35:28,981] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/IBM BC0202EN Certificate _ Cognitive Class.pdf: 'utf-8' codec can't decode byte 0xd3 in position 10: invalid continuation byte
+[2025-05-14 13:35:28,981] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/Machine Learning And Deep Learning - Fundamentals _231118_224232 (1).pdf
+[2025-05-14 13:35:29,351] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/Machine Learning And Deep Learning - Fundamentals _231118_224232 (1).pdf: 'utf-8' codec can't decode byte 0xa1 in position 11: invalid start byte
+[2025-05-14 13:35:29,351] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/Vishal  (4).pdf
+[2025-05-14 13:35:29,650] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/Vishal  (4).pdf: 'utf-8' codec can't decode byte 0xe2 in position 10: invalid continuation byte
+[2025-05-14 13:35:29,650] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/Vishal_resume.pdf
+[2025-05-14 13:35:29,937] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/Vishal_resume.pdf: 'utf-8' codec can't decode byte 0xbf in position 10: invalid start byte
+[2025-05-14 13:35:29,937] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/www.linkedin.com/in/vishal-datascience
+[2025-05-14 13:35:30,232] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/www.linkedin.com/in/vishal-datascience
+[2025-05-14 13:35:30,233] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Youtube_clone
+[2025-05-14 13:35:30,926] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Youtube_clone
+[2025-05-14 13:35:30,929] INFO [scanner] [+] Scanning (5): https://vishal-038.github.io/gym
+[2025-05-14 13:35:31,518] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/gym
+[2025-05-14 13:35:31,524] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/assests/menu.jpg
+[2025-05-14 13:35:31,819] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/assests/menu.jpg
+[2025-05-14 13:35:31,820] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/about.html
+[2025-05-14 13:35:32,123] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/about.html
+[2025-05-14 13:35:32,123] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/contact.html
+[2025-05-14 13:35:32,425] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/contact.html
+[2025-05-14 13:35:32,426] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/index.html
+[2025-05-14 13:35:32,799] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Portfolio__/index.html
+[2025-05-14 13:35:32,812] INFO [scanner] [+] Scanning (7): https://vishal-038.github.io/Portfolio__/signup.html
+[2025-05-14 13:35:33,095] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/signup.html
+[2025-05-14 13:35:33,095] INFO [scanner] [+] Scanning (7): https://vishal-038.github.io/Portfolio__/workout.html
+[2025-05-14 13:35:33,384] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/workout.html
+[2025-05-14 13:35:33,385] INFO [scanner] [✓] Scraping complete.
+[2025-05-14 14:55:31,561] DEBUG [scanner.views] Received URL from form: https://appportfolio-pqirmwf3zekpwrhyfkupye.streamlit.app/
+[2025-05-14 14:55:31,588] INFO [scanner.views] Created site: https://appportfolio-pqirmwf3zekpwrhyfkupye.streamlit.app/ (789938f7-a853-4c15-8445-ad54222d9177)
+[2025-05-14 14:55:31,588] INFO [scanner.views] Scheduled scraper job for: https://appportfolio-pqirmwf3zekpwrhyfkupye.streamlit.app/
+[2025-05-14 14:55:31,589] INFO [scanner] Starting scraper for https://appportfolio-pqirmwf3zekpwrhyfkupye.streamlit.app/ (site ID: 789938f7-a853-4c15-8445-ad54222d9177)
+[2025-05-14 14:55:31,623] INFO [scanner] [+] Scanning (1): https://appportfolio-pqirmwf3zekpwrhyfkupye.streamlit.app
+[2025-05-14 14:55:34,821] DEBUG [scanner] [SAVED] Page stored: https://appportfolio-pqirmwf3zekpwrhyfkupye.streamlit.app
+[2025-05-14 14:55:34,825] INFO [scanner] [✓] Scraping complete.
+[2025-05-14 14:56:40,183] DEBUG [scanner.views] Received URL from form: https://vishal-038.github.io/Youtube_clone/
+[2025-05-14 14:56:40,198] INFO [scanner.views] Created site: https://vishal-038.github.io/Youtube_clone/ (787a6313-abc9-4e74-8396-80c4e3227a43)
+[2025-05-14 14:56:40,198] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Youtube_clone/
+[2025-05-14 14:56:40,198] INFO [scanner] Starting scraper for https://vishal-038.github.io/Youtube_clone/ (site ID: 787a6313-abc9-4e74-8396-80c4e3227a43)
+[2025-05-14 14:56:40,229] INFO [scanner] [+] Scanning (1): https://vishal-038.github.io/Youtube_clone
+[2025-05-14 14:56:40,387] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Youtube_clone
+[2025-05-14 14:56:40,390] INFO [scanner] [✓] Scraping complete.
+[2025-05-14 14:57:35,992] DEBUG [scanner.views] Received URL from form: https://vishal-038.github.io/MyPortfolio/#
+[2025-05-14 14:57:36,007] INFO [scanner.views] Created site: https://vishal-038.github.io/MyPortfolio/# (749232df-8ef4-4410-92cb-0dbb045575e5)
+[2025-05-14 14:57:36,008] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/MyPortfolio/#
+[2025-05-14 14:57:36,011] INFO [scanner] Starting scraper for https://vishal-038.github.io/MyPortfolio/# (site ID: 749232df-8ef4-4410-92cb-0dbb045575e5)
+[2025-05-14 14:57:36,040] INFO [scanner] [+] Scanning (1): https://vishal-038.github.io/MyPortfolio/#
+[2025-05-14 14:57:36,205] DEBUG [scanner] [SAVED] Page stored: https://vishal-038.github.io/MyPortfolio/#
+[2025-05-14 14:57:36,209] INFO [scanner] [+] Scanning (2): https://vishal-038.github.io/EmpowerUFitness
+[2025-05-14 14:57:36,304] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/EmpowerUFitness
+[2025-05-14 14:57:36,305] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/MyPortfolio/assests/Documents/CV_.pdf
+[2025-05-14 14:57:36,796] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/MyPortfolio/assests/Documents/CV_.pdf: 'utf-8' codec can't decode byte 0x9c in position 147: invalid start byte
+[2025-05-14 14:57:36,797] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/MyPortfolio/assests/Documents/IBM BC0202EN Certificate _ Cognitive Class.pdf
+[2025-05-14 14:57:38,991] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/MyPortfolio/assests/Documents/IBM BC0202EN Certificate _ Cognitive Class.pdf: 'utf-8' codec can't decode byte 0xd3 in position 10: invalid continuation byte
+[2025-05-14 14:57:38,991] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/MyPortfolio/assests/Documents/Machine Learning And Deep Learning - Fundamentals _231118_224232.pdf
+[2025-05-14 14:57:41,195] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/MyPortfolio/assests/Documents/Machine Learning And Deep Learning - Fundamentals _231118_224232.pdf: 'utf-8' codec can't decode byte 0xa1 in position 11: invalid start byte
+[2025-05-14 14:57:41,195] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/MyPortfolio/assests/Documents/Vishal .pdf
+[2025-05-14 14:57:41,543] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/MyPortfolio/assests/Documents/Vishal .pdf: 'utf-8' codec can't decode byte 0xe2 in position 10: invalid continuation byte
+[2025-05-14 14:57:41,543] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/MyPortfolio/about.html
+[2025-05-14 14:57:41,826] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/MyPortfolio/about.html
+[2025-05-14 14:57:41,827] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/MyPortfolio/contact.html
+[2025-05-14 14:57:42,517] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/MyPortfolio/contact.html
+[2025-05-14 14:57:42,518] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/MyPortfolio/index.html
+[2025-05-14 14:57:42,809] DEBUG [scanner] [SAVED] Page stored: https://vishal-038.github.io/MyPortfolio/index.html
+[2025-05-14 14:57:42,816] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/MyPortfolio/signup.html
+[2025-05-14 14:57:43,430] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/MyPortfolio/signup.html
+[2025-05-14 14:57:43,430] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/MyPortfolio/workout.html
+[2025-05-14 14:57:43,803] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/MyPortfolio/workout.html
+[2025-05-14 14:57:43,805] INFO [scanner] [✓] Scraping complete.
+[2025-05-14 15:08:03,872] DEBUG [scanner.views] Received URL from form: https://vishal-038.github.io/Portfolio__/
+[2025-05-14 15:08:03,884] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Portfolio__/ (f5ae391c-7644-4cf4-99a1-98432257888d)
+[2025-05-14 15:08:03,885] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Portfolio__/
+[2025-05-14 15:08:03,888] INFO [scanner] Starting scraper for https://vishal-038.github.io/Portfolio__/ (site ID: f5ae391c-7644-4cf4-99a1-98432257888d)
+[2025-05-14 15:08:03,908] INFO [scanner] [+] Scanning (1): https://vishal-038.github.io/Portfolio__
+[2025-05-14 15:08:04,952] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Portfolio__
+[2025-05-14 15:08:04,968] INFO [scanner] [+] Scanning (2): https://vishal-038.github.io/Chickpeas
+[2025-05-14 15:08:05,311] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Chickpeas
+[2025-05-14 15:08:05,338] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/EmpowerUFitness
+[2025-05-14 15:08:07,552] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/EmpowerUFitness
+[2025-05-14 15:08:07,557] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/IBM BC0202EN Certificate _ Cognitive Class.pdf
+[2025-05-14 15:08:08,592] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/IBM BC0202EN Certificate _ Cognitive Class.pdf: 'utf-8' codec can't decode byte 0xd3 in position 10: invalid continuation byte
+[2025-05-14 15:08:08,592] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/Machine Learning And Deep Learning - Fundamentals _231118_224232 (1).pdf
+[2025-05-14 15:08:08,953] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/Machine Learning And Deep Learning - Fundamentals _231118_224232 (1).pdf: 'utf-8' codec can't decode byte 0xa1 in position 11: invalid start byte
+[2025-05-14 15:08:08,954] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/Vishal  (4).pdf
+[2025-05-14 15:08:10,516] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/Vishal  (4).pdf: 'utf-8' codec can't decode byte 0xe2 in position 10: invalid continuation byte
+[2025-05-14 15:08:10,516] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/Vishal_resume.pdf
+[2025-05-14 15:08:10,810] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/Vishal_resume.pdf: 'utf-8' codec can't decode byte 0xbf in position 10: invalid start byte
+[2025-05-14 15:08:10,810] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/www.linkedin.com/in/vishal-datascience
+[2025-05-14 15:08:10,860] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/www.linkedin.com/in/vishal-datascience
+[2025-05-14 15:08:10,860] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Youtube_clone
+[2025-05-14 15:08:11,190] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Youtube_clone
+[2025-05-14 15:08:11,193] INFO [scanner] [+] Scanning (5): https://vishal-038.github.io/gym
+[2025-05-14 15:08:11,528] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/gym
+[2025-05-14 15:08:11,531] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/assests/menu.jpg
+[2025-05-14 15:08:11,579] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/assests/menu.jpg
+[2025-05-14 15:08:11,579] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/about.html
+[2025-05-14 15:08:11,627] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/about.html
+[2025-05-14 15:08:11,627] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/contact.html
+[2025-05-14 15:08:11,680] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/contact.html
+[2025-05-14 15:08:11,680] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/index.html
+[2025-05-14 15:08:11,955] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Portfolio__/index.html
+[2025-05-14 15:08:11,972] INFO [scanner] [+] Scanning (7): https://vishal-038.github.io/Portfolio__/signup.html
+[2025-05-14 15:08:12,019] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/signup.html
+[2025-05-14 15:08:12,019] INFO [scanner] [+] Scanning (7): https://vishal-038.github.io/Portfolio__/workout.html
+[2025-05-14 15:08:12,066] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/workout.html
+[2025-05-14 15:08:12,066] INFO [scanner] [✓] Scraping complete.
+[2025-05-14 15:12:28,616] DEBUG [scanner.views] Received URL from form: https://vishal-038.github.io/Portfolio__/
+[2025-05-14 15:12:28,627] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Portfolio__/ (f5ae391c-7644-4cf4-99a1-98432257888d)
+[2025-05-14 15:12:28,628] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Portfolio__/
+[2025-05-14 15:12:28,634] INFO [scanner] Starting scraper for https://vishal-038.github.io/Portfolio__/ (site ID: f5ae391c-7644-4cf4-99a1-98432257888d)
+[2025-05-14 15:12:28,669] INFO [scanner] [+] Scanning (1): https://vishal-038.github.io/Portfolio__
+[2025-05-14 15:12:28,854] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Portfolio__
+[2025-05-14 15:12:28,869] INFO [scanner] [+] Scanning (2): https://vishal-038.github.io/Chickpeas
+[2025-05-14 15:12:29,034] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Chickpeas
+[2025-05-14 15:12:29,042] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/EmpowerUFitness
+[2025-05-14 15:12:29,121] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/EmpowerUFitness
+[2025-05-14 15:12:29,122] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/IBM BC0202EN Certificate _ Cognitive Class.pdf
+[2025-05-14 15:12:29,291] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/IBM BC0202EN Certificate _ Cognitive Class.pdf: 'utf-8' codec can't decode byte 0xd3 in position 10: invalid continuation byte
+[2025-05-14 15:12:29,291] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/Machine Learning And Deep Learning - Fundamentals _231118_224232 (1).pdf
+[2025-05-14 15:12:29,388] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/Machine Learning And Deep Learning - Fundamentals _231118_224232 (1).pdf: 'utf-8' codec can't decode byte 0xa1 in position 11: invalid start byte
+[2025-05-14 15:12:29,388] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/Vishal  (4).pdf
+[2025-05-14 15:12:29,436] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/Vishal  (4).pdf: 'utf-8' codec can't decode byte 0xe2 in position 10: invalid continuation byte
+[2025-05-14 15:12:29,436] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/assests/documents/Vishal_resume.pdf
+[2025-05-14 15:12:29,479] ERROR [scanner] [ERROR] Could not fetch https://vishal-038.github.io/Portfolio__/assests/documents/Vishal_resume.pdf: 'utf-8' codec can't decode byte 0xbf in position 10: invalid start byte
+[2025-05-14 15:12:29,479] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Portfolio__/www.linkedin.com/in/vishal-datascience
+[2025-05-14 15:12:29,517] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/www.linkedin.com/in/vishal-datascience
+[2025-05-14 15:12:29,517] INFO [scanner] [+] Scanning (4): https://vishal-038.github.io/Youtube_clone
+[2025-05-14 15:12:29,591] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Youtube_clone
+[2025-05-14 15:12:29,593] INFO [scanner] [+] Scanning (5): https://vishal-038.github.io/gym
+[2025-05-14 15:12:29,668] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/gym
+[2025-05-14 15:12:29,672] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/assests/menu.jpg
+[2025-05-14 15:12:29,708] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/assests/menu.jpg
+[2025-05-14 15:12:29,708] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/about.html
+[2025-05-14 15:12:29,749] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/about.html
+[2025-05-14 15:12:29,749] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/contact.html
+[2025-05-14 15:12:29,789] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/contact.html
+[2025-05-14 15:12:29,789] INFO [scanner] [+] Scanning (6): https://vishal-038.github.io/Portfolio__/index.html
+[2025-05-14 15:12:29,829] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Portfolio__/index.html
+[2025-05-14 15:12:29,842] INFO [scanner] [+] Scanning (7): https://vishal-038.github.io/Portfolio__/signup.html
+[2025-05-14 15:12:29,881] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/signup.html
+[2025-05-14 15:12:29,881] INFO [scanner] [+] Scanning (7): https://vishal-038.github.io/Portfolio__/workout.html
+[2025-05-14 15:12:29,921] WARNING [scanner] [404] Non-200 status for https://vishal-038.github.io/Portfolio__/workout.html
+[2025-05-14 15:12:29,922] INFO [scanner] [✓] Scraping complete.
+[2025-05-14 15:12:46,724] DEBUG [scanner.views] User submitted new page URL: 
+[2025-05-14 15:12:46,725] WARNING [scanner.views] Invalid URL format submitted.
+[2025-05-14 15:21:12,894] DEBUG [scanner.views] Received URL from form: https://vishal-038.github.io/Weather/
+[2025-05-14 15:21:12,925] INFO [scanner.views] Created site: https://vishal-038.github.io/Weather/ (48cbb559-81a7-4bef-891b-48c0434d471e)
+[2025-05-14 15:21:12,927] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Weather/
+[2025-05-14 15:21:12,934] INFO [scanner] Starting scraper for https://vishal-038.github.io/Weather/ (site ID: 48cbb559-81a7-4bef-891b-48c0434d471e)
+[2025-05-14 15:21:12,973] INFO [scanner] [+] Scanning (1): https://vishal-038.github.io/Weather
+[2025-05-14 15:21:13,369] DEBUG [scanner] [SAVED] Page stored: https://vishal-038.github.io/Weather
+[2025-05-14 15:21:13,373] INFO [scanner] [+] Scanning (2): https://vishal-038.github.io/Weather/about.html
+[2025-05-14 15:21:13,647] DEBUG [scanner] [SAVED] Page stored: https://vishal-038.github.io/Weather/about.html
+[2025-05-14 15:21:13,648] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/Weather/index.html
+[2025-05-14 15:21:13,929] DEBUG [scanner] [SAVED] Page stored: https://vishal-038.github.io/Weather/index.html
+[2025-05-14 15:21:13,935] INFO [scanner] [✓] Scraping complete.
+[2025-05-14 15:25:16,659] DEBUG [scanner.views] User submitted new page URL: 
+[2025-05-14 15:25:28,504] DEBUG [scanner.views] User submitted new page URL: 
+[2025-05-14 15:36:39,964] DEBUG [scanner.views] Received URL from form: https://vishal-038.github.io/Weather/
+[2025-05-14 15:36:39,982] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Weather/ (48cbb559-81a7-4bef-891b-48c0434d471e)
+[2025-05-14 15:36:39,983] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Weather/
+[2025-05-14 15:36:39,988] INFO [scanner] Starting scraper for https://vishal-038.github.io/Weather/ (site ID: 48cbb559-81a7-4bef-891b-48c0434d471e)
+[2025-05-14 15:36:40,016] INFO [scanner] [+] Scanning (1): https://vishal-038.github.io/Weather
+[2025-05-14 15:36:40,438] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather
+[2025-05-14 15:36:40,446] INFO [scanner] [+] Scanning (2): https://vishal-038.github.io/Weather/about.html
+[2025-05-14 15:36:40,728] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather/about.html
+[2025-05-14 15:36:40,730] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/Weather/index.html
+[2025-05-14 15:36:41,012] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather/index.html
+[2025-05-14 15:36:41,017] INFO [scanner] [✓] Scraping complete.
+[2025-05-15 03:55:47,253] DEBUG [scanner.views] Received URL from form: https://vishal-038.github.io/Weather/
+[2025-05-15 03:55:47,267] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Weather/ (48cbb559-81a7-4bef-891b-48c0434d471e)
+[2025-05-15 03:55:47,268] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Weather/
+[2025-05-15 03:55:47,271] INFO [scanner] Starting scraper for https://vishal-038.github.io/Weather/ (site ID: 48cbb559-81a7-4bef-891b-48c0434d471e)
+[2025-05-15 03:55:47,318] INFO [scanner] [+] Scanning (1): https://vishal-038.github.io/Weather
+[2025-05-15 03:55:49,059] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather
+[2025-05-15 03:55:49,068] INFO [scanner] [+] Scanning (2): https://vishal-038.github.io/Weather/about.html
+[2025-05-15 03:55:49,358] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather/about.html
+[2025-05-15 03:55:49,359] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/Weather/index.html
+[2025-05-15 03:55:49,643] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather/index.html
+[2025-05-15 03:55:49,652] INFO [scanner] [✓] Scraping complete.
+[2025-05-15 04:01:16,098] DEBUG [scanner.views] Received URL from form: https://vishal-038.github.io/Weather/
+[2025-05-15 04:01:16,107] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Weather/ (48cbb559-81a7-4bef-891b-48c0434d471e)
+[2025-05-15 04:01:16,108] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Weather/
+[2025-05-15 04:01:16,117] INFO [scanner] Starting scraper for https://vishal-038.github.io/Weather/ (site ID: 48cbb559-81a7-4bef-891b-48c0434d471e)
+[2025-05-15 04:01:16,148] INFO [scanner] [+] Scanning (1): https://vishal-038.github.io/Weather
+[2025-05-15 04:01:16,577] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather
+[2025-05-15 04:01:16,579] INFO [scanner] [+] Scanning (2): https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:01:16,856] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:01:16,857] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/Weather/index.html
+[2025-05-15 04:01:17,153] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather/index.html
+[2025-05-15 04:01:17,157] INFO [scanner] [✓] Scraping complete.
+[2025-05-15 04:05:52,913] DEBUG [scanner.views] Received URL from form: https://vishal-038.github.io/Weather/
+[2025-05-15 04:05:52,946] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Weather/ (48cbb559-81a7-4bef-891b-48c0434d471e)
+[2025-05-15 04:05:52,948] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Weather/
+[2025-05-15 04:05:52,952] INFO [scanner] Starting scraper for https://vishal-038.github.io/Weather/ (site ID: 48cbb559-81a7-4bef-891b-48c0434d471e)
+[2025-05-15 04:05:52,995] INFO [scanner] [+] Scanning (1): https://vishal-038.github.io/Weather
+[2025-05-15 04:05:53,654] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather
+[2025-05-15 04:05:53,663] INFO [scanner] [+] Scanning (2): https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:05:53,949] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:05:53,951] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/Weather/index.html
+[2025-05-15 04:05:54,234] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather/index.html
+[2025-05-15 04:05:54,244] INFO [scanner] [✓] Scraping complete.
+[2025-05-15 04:08:50,670] DEBUG [scanner.views] Received URL from form: https://vishal-038.github.io/Weather/
+[2025-05-15 04:08:50,679] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Weather/ (48cbb559-81a7-4bef-891b-48c0434d471e)
+[2025-05-15 04:08:50,680] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Weather/
+[2025-05-15 04:08:50,683] INFO [scanner] Starting scraper for https://vishal-038.github.io/Weather/ (site ID: 48cbb559-81a7-4bef-891b-48c0434d471e)
+[2025-05-15 04:08:50,721] INFO [scanner] [+] Scanning (1): https://vishal-038.github.io/Weather
+[2025-05-15 04:08:51,496] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather
+[2025-05-15 04:08:51,506] INFO [scanner] [+] Scanning (2): https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:08:51,784] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:08:51,785] INFO [scanner] [+] Scanning (3): https://vishal-038.github.io/Weather/index.html
+[2025-05-15 04:08:52,105] INFO [scanner] [SKIPPED] Page already exists: https://vishal-038.github.io/Weather/index.html
+[2025-05-15 04:08:52,111] INFO [scanner] [✓] Scraping complete.
+[2025-05-15 04:08:58,416] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather, Versions available: 1
+[2025-05-15 04:08:58,416] INFO [scanner.views] Only one version found for https://vishal-038.github.io/Weather, skipping diff.
+[2025-05-15 04:08:58,416] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather/about.html, Versions available: 1
+[2025-05-15 04:08:58,416] INFO [scanner.views] Only one version found for https://vishal-038.github.io/Weather/about.html, skipping diff.
+[2025-05-15 04:08:58,416] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather/index.html, Versions available: 1
+[2025-05-15 04:08:58,416] INFO [scanner.views] Only one version found for https://vishal-038.github.io/Weather/index.html, skipping diff.
+[2025-05-15 04:25:50,363] DEBUG [scanner.views] Received URL from form: https://vishal-038.github.io/Weather/
+[2025-05-15 04:25:50,372] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Weather/ (48cbb559-81a7-4bef-891b-48c0434d471e)
+[2025-05-15 04:25:50,373] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Weather/
+[2025-05-15 04:25:50,374] INFO [scanner] Starting scraper for https://vishal-038.github.io/Weather/ (site ID: 48cbb559-81a7-4bef-891b-48c0434d471e)
+[2025-05-15 04:25:50,401] INFO [scanner] [+] Scanning: https://vishal-038.github.io/Weather
+[2025-05-15 04:25:50,921] INFO [scanner] [SAVED] https://vishal-038.github.io/Weather (seqNum=2)
+[2025-05-15 04:25:50,928] INFO [scanner] [+] Scanning: https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:25:51,213] INFO [scanner] [SAVED] https://vishal-038.github.io/Weather/about.html (seqNum=2)
+[2025-05-15 04:25:51,214] INFO [scanner] [+] Scanning: https://vishal-038.github.io/Weather/index.html
+[2025-05-15 04:25:51,487] INFO [scanner] [SAVED] https://vishal-038.github.io/Weather/index.html (seqNum=2)
+[2025-05-15 04:25:51,499] INFO [scanner] [✓] Scraping complete.
+[2025-05-15 04:26:00,992] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather, Versions available: 2
+[2025-05-15 04:26:00,993] DEBUG [scanner.views] Comparing hashes for https://vishal-038.github.io/Weather
+[2025-05-15 04:26:00,993] DEBUG [scanner.views]   Latest seqNum=2, hash=0504279bf0f152bccf4d8f51032235b0aefb0d8bff93f13ac7e776327c9ad768
+[2025-05-15 04:26:00,993] DEBUG [scanner.views]   Previous seqNum=1, hash=a87462cb57e8f2f0c85c66e04de02c445d90267e4eaef133794f1ca3985b8a11
+[2025-05-15 04:26:00,993] INFO [scanner.views] Change detected by hash for https://vishal-038.github.io/Weather
+[2025-05-15 04:26:00,996] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather/about.html, Versions available: 2
+[2025-05-15 04:26:00,997] DEBUG [scanner.views] Comparing hashes for https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:26:00,997] DEBUG [scanner.views]   Latest seqNum=2, hash=b117a197664929c8aca321df051cab0028fd9c2d0b40482ee87c13a46b888409
+[2025-05-15 04:26:00,998] DEBUG [scanner.views]   Previous seqNum=2, hash=b117a197664929c8aca321df051cab0028fd9c2d0b40482ee87c13a46b888409
+[2025-05-15 04:26:00,998] INFO [scanner.views] No change detected for https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:26:00,998] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather/index.html, Versions available: 2
+[2025-05-15 04:26:00,998] DEBUG [scanner.views] Comparing hashes for https://vishal-038.github.io/Weather/index.html
+[2025-05-15 04:26:00,998] DEBUG [scanner.views]   Latest seqNum=3, hash=a87462cb57e8f2f0c85c66e04de02c445d90267e4eaef133794f1ca3985b8a11
+[2025-05-15 04:26:00,999] DEBUG [scanner.views]   Previous seqNum=2, hash=0504279bf0f152bccf4d8f51032235b0aefb0d8bff93f13ac7e776327c9ad768
+[2025-05-15 04:26:00,999] INFO [scanner.views] Change detected by hash for https://vishal-038.github.io/Weather/index.html
+[2025-05-15 04:26:20,873] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather, Versions available: 2
+[2025-05-15 04:26:20,874] DEBUG [scanner.views] Comparing hashes for https://vishal-038.github.io/Weather
+[2025-05-15 04:26:20,874] DEBUG [scanner.views]   Latest seqNum=2, hash=0504279bf0f152bccf4d8f51032235b0aefb0d8bff93f13ac7e776327c9ad768
+[2025-05-15 04:26:20,874] DEBUG [scanner.views]   Previous seqNum=1, hash=a87462cb57e8f2f0c85c66e04de02c445d90267e4eaef133794f1ca3985b8a11
+[2025-05-15 04:26:20,874] INFO [scanner.views] Change detected by hash for https://vishal-038.github.io/Weather
+[2025-05-15 04:26:20,875] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather/about.html, Versions available: 2
+[2025-05-15 04:26:20,875] DEBUG [scanner.views] Comparing hashes for https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:26:20,875] DEBUG [scanner.views]   Latest seqNum=2, hash=b117a197664929c8aca321df051cab0028fd9c2d0b40482ee87c13a46b888409
+[2025-05-15 04:26:20,875] DEBUG [scanner.views]   Previous seqNum=2, hash=b117a197664929c8aca321df051cab0028fd9c2d0b40482ee87c13a46b888409
+[2025-05-15 04:26:20,875] INFO [scanner.views] No change detected for https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:26:20,876] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather/index.html, Versions available: 2
+[2025-05-15 04:26:20,876] DEBUG [scanner.views] Comparing hashes for https://vishal-038.github.io/Weather/index.html
+[2025-05-15 04:26:20,876] DEBUG [scanner.views]   Latest seqNum=3, hash=a87462cb57e8f2f0c85c66e04de02c445d90267e4eaef133794f1ca3985b8a11
+[2025-05-15 04:26:20,876] DEBUG [scanner.views]   Previous seqNum=2, hash=0504279bf0f152bccf4d8f51032235b0aefb0d8bff93f13ac7e776327c9ad768
+[2025-05-15 04:26:20,876] INFO [scanner.views] Change detected by hash for https://vishal-038.github.io/Weather/index.html
+[2025-05-15 04:32:14,418] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather, Versions available: 2
+[2025-05-15 04:32:14,419] DEBUG [scanner.views] Comparing hashes for https://vishal-038.github.io/Weather
+[2025-05-15 04:32:14,419] DEBUG [scanner.views]   Latest seqNum=2, hash=0504279bf0f152bccf4d8f51032235b0aefb0d8bff93f13ac7e776327c9ad768
+[2025-05-15 04:32:14,419] DEBUG [scanner.views]   Previous seqNum=1, hash=a87462cb57e8f2f0c85c66e04de02c445d90267e4eaef133794f1ca3985b8a11
+[2025-05-15 04:32:14,419] INFO [scanner.views] Change detected by hash for https://vishal-038.github.io/Weather
+[2025-05-15 04:32:14,420] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather/about.html, Versions available: 2
+[2025-05-15 04:32:14,421] DEBUG [scanner.views] Comparing hashes for https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:32:14,421] DEBUG [scanner.views]   Latest seqNum=2, hash=b117a197664929c8aca321df051cab0028fd9c2d0b40482ee87c13a46b888409
+[2025-05-15 04:32:14,421] DEBUG [scanner.views]   Previous seqNum=2, hash=b117a197664929c8aca321df051cab0028fd9c2d0b40482ee87c13a46b888409
+[2025-05-15 04:32:14,421] INFO [scanner.views] No change detected for https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:32:14,421] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather/index.html, Versions available: 2
+[2025-05-15 04:32:14,421] DEBUG [scanner.views] Comparing hashes for https://vishal-038.github.io/Weather/index.html
+[2025-05-15 04:32:14,421] DEBUG [scanner.views]   Latest seqNum=3, hash=a87462cb57e8f2f0c85c66e04de02c445d90267e4eaef133794f1ca3985b8a11
+[2025-05-15 04:32:14,421] DEBUG [scanner.views]   Previous seqNum=2, hash=0504279bf0f152bccf4d8f51032235b0aefb0d8bff93f13ac7e776327c9ad768
+[2025-05-15 04:32:14,421] INFO [scanner.views] Change detected by hash for https://vishal-038.github.io/Weather/index.html
+[2025-05-15 04:33:42,898] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather, Versions available: 2
+[2025-05-15 04:33:42,898] DEBUG [scanner.views] Comparing hashes for https://vishal-038.github.io/Weather
+[2025-05-15 04:33:42,898] DEBUG [scanner.views]   Latest seqNum=2, hash=0504279bf0f152bccf4d8f51032235b0aefb0d8bff93f13ac7e776327c9ad768
+[2025-05-15 04:33:42,898] DEBUG [scanner.views]   Previous seqNum=1, hash=a87462cb57e8f2f0c85c66e04de02c445d90267e4eaef133794f1ca3985b8a11
+[2025-05-15 04:33:42,898] INFO [scanner.views] Change detected by hash for https://vishal-038.github.io/Weather
+[2025-05-15 04:33:42,902] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather/about.html, Versions available: 2
+[2025-05-15 04:33:42,902] DEBUG [scanner.views] Comparing hashes for https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:33:42,902] DEBUG [scanner.views]   Latest seqNum=2, hash=b117a197664929c8aca321df051cab0028fd9c2d0b40482ee87c13a46b888409
+[2025-05-15 04:33:42,902] DEBUG [scanner.views]   Previous seqNum=2, hash=b117a197664929c8aca321df051cab0028fd9c2d0b40482ee87c13a46b888409
+[2025-05-15 04:33:42,902] INFO [scanner.views] No change detected for https://vishal-038.github.io/Weather/about.html
+[2025-05-15 04:33:42,902] INFO [scanner.views] Checking URL: https://vishal-038.github.io/Weather/index.html, Versions available: 2
+[2025-05-15 04:33:42,902] DEBUG [scanner.views] Comparing hashes for https://vishal-038.github.io/Weather/index.html
+[2025-05-15 04:33:42,902] DEBUG [scanner.views]   Latest seqNum=3, hash=a87462cb57e8f2f0c85c66e04de02c445d90267e4eaef133794f1ca3985b8a11
+[2025-05-15 04:33:42,902] DEBUG [scanner.views]   Previous seqNum=2, hash=0504279bf0f152bccf4d8f51032235b0aefb0d8bff93f13ac7e776327c9ad768
+[2025-05-15 04:33:42,902] INFO [scanner.views] Change detected by hash for https://vishal-038.github.io/Weather/index.html
+[2025-05-15 16:03:06,145] INFO [scanner.views] 
+[2025-05-15 16:03:06,146] INFO [scanner.views] 
+[2025-05-15 16:03:06,146] INFO [scanner.views] 
+[2025-05-15 16:03:06,146] INFO [scanner.views] 
+[2025-05-15 16:03:06,146] INFO [scanner.views] 
+[2025-05-15 16:03:06,146] INFO [scanner.views] 
+[2025-05-15 16:03:06,146] INFO [scanner.views] 
+[2025-05-15 16:03:06,146] INFO [scanner.views] 
+[2025-05-15 16:03:06,146] INFO [scanner.views] 
+[2025-05-15 16:05:48,430] INFO [scanner.views] 
+[2025-05-15 16:05:48,430] INFO [scanner.views] 
+[2025-05-15 16:05:48,430] INFO [scanner.views] 
+[2025-05-15 16:05:48,430] INFO [scanner.views] 
+[2025-05-15 16:05:48,430] INFO [scanner.views] 
+[2025-05-15 16:05:48,430] INFO [scanner.views] 
+[2025-05-15 16:05:48,430] INFO [scanner.views] 
+[2025-05-15 16:05:48,430] INFO [scanner.views] 
+[2025-05-15 16:05:48,430] INFO [scanner.views] 
+[2025-05-15 16:06:34,920] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: 
+[2025-05-15 16:23:25,440] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: 
+[2025-05-15 16:23:28,284] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: 
+[2025-05-15 16:26:34,130] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: 
+[2025-05-15 16:26:36,124] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: 
+[2025-05-15 17:12:45,664] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: 
+[2025-05-15 17:12:52,306] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: 
+[2025-05-15 17:13:35,183] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: 
+[2025-05-15 17:29:11,976] WARNING [scanner.views] [MISSING TITLE] No title cached for page 359c4914-e6bc-4867-9cdd-ce3c24d10285 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-15 17:29:11,977] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: 
+[2025-05-15 17:29:14,018] WARNING [scanner.views] [MISSING TITLE] No title cached for page 359c4914-e6bc-4867-9cdd-ce3c24d10285 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-15 17:29:14,018] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: 
+[2025-05-15 17:38:44,440] WARNING [scanner.views] [MISSING TITLE] No title cached for page 359c4914-e6bc-4867-9cdd-ce3c24d10285 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-15 17:38:44,440] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: 
+[2025-05-16 06:30:13,217] WARNING [scanner.views] [MISSING TITLE] No title cached for page 9dcac78e-619b-4fb4-bfc6-e4703a7d48aa (https://vishal-038.github.io/Weather)
+[2025-05-16 06:30:13,217] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:9dcac78e-619b-4fb4-bfc6-e4703a7d48aa: [MISSING TITLE]
+[2025-05-16 06:30:13,218] WARNING [scanner.views] [MISSING TITLE] No title cached for page e74bb5d1-c2f0-42f2-9a85-9d7489309ca7 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 06:30:13,218] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:e74bb5d1-c2f0-42f2-9a85-9d7489309ca7: [MISSING TITLE]
+[2025-05-16 06:30:13,218] WARNING [scanner.views] [MISSING TITLE] No title cached for page d4fe43b8-23ac-4713-98b7-e4540ff58f3c (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 06:30:13,218] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:d4fe43b8-23ac-4713-98b7-e4540ff58f3c: [MISSING TITLE]
+[2025-05-16 06:30:13,218] WARNING [scanner.views] [MISSING TITLE] No title cached for page 439782e9-0128-425d-9d2d-af431491519b (https://vishal-038.github.io/Weather)
+[2025-05-16 06:30:13,218] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:439782e9-0128-425d-9d2d-af431491519b: [MISSING TITLE]
+[2025-05-16 06:30:13,218] WARNING [scanner.views] [MISSING TITLE] No title cached for page d8de14b3-cb0c-4973-abf0-1e8f81526045 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 06:30:13,218] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:d8de14b3-cb0c-4973-abf0-1e8f81526045: [MISSING TITLE]
+[2025-05-16 06:30:13,218] WARNING [scanner.views] [MISSING TITLE] No title cached for page 4e321f2e-031d-4065-9786-1216f78eee28 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 06:30:13,218] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:4e321f2e-031d-4065-9786-1216f78eee28: [MISSING TITLE]
+[2025-05-16 06:30:13,219] WARNING [scanner.views] [MISSING TITLE] No title cached for page f862e25a-5c43-4f78-afac-deeeb2d2f7fa (https://vishal-038.github.io/Weather)
+[2025-05-16 06:30:13,219] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:f862e25a-5c43-4f78-afac-deeeb2d2f7fa: [MISSING TITLE]
+[2025-05-16 06:30:13,219] WARNING [scanner.views] [MISSING TITLE] No title cached for page e1c21cee-28bb-4fbb-a877-237769017990 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 06:30:13,219] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:e1c21cee-28bb-4fbb-a877-237769017990: [MISSING TITLE]
+[2025-05-16 06:30:13,219] WARNING [scanner.views] [MISSING TITLE] No title cached for page 359c4914-e6bc-4867-9cdd-ce3c24d10285 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 06:30:13,219] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: [MISSING TITLE]
+[2025-05-16 06:32:28,499] WARNING [scanner.views] [MISSING TITLE] No title cached for page 9dcac78e-619b-4fb4-bfc6-e4703a7d48aa (https://vishal-038.github.io/Weather)
+[2025-05-16 06:32:28,499] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:9dcac78e-619b-4fb4-bfc6-e4703a7d48aa: [MISSING TITLE]
+[2025-05-16 06:32:28,500] WARNING [scanner.views] [MISSING TITLE] No title cached for page e74bb5d1-c2f0-42f2-9a85-9d7489309ca7 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 06:32:28,500] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:e74bb5d1-c2f0-42f2-9a85-9d7489309ca7: [MISSING TITLE]
+[2025-05-16 06:32:28,500] WARNING [scanner.views] [MISSING TITLE] No title cached for page d4fe43b8-23ac-4713-98b7-e4540ff58f3c (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 06:32:28,500] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:d4fe43b8-23ac-4713-98b7-e4540ff58f3c: [MISSING TITLE]
+[2025-05-16 06:32:28,500] WARNING [scanner.views] [MISSING TITLE] No title cached for page 439782e9-0128-425d-9d2d-af431491519b (https://vishal-038.github.io/Weather)
+[2025-05-16 06:32:28,500] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:439782e9-0128-425d-9d2d-af431491519b: [MISSING TITLE]
+[2025-05-16 06:32:28,501] WARNING [scanner.views] [MISSING TITLE] No title cached for page d8de14b3-cb0c-4973-abf0-1e8f81526045 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 06:32:28,501] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:d8de14b3-cb0c-4973-abf0-1e8f81526045: [MISSING TITLE]
+[2025-05-16 06:32:28,501] WARNING [scanner.views] [MISSING TITLE] No title cached for page 4e321f2e-031d-4065-9786-1216f78eee28 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 06:32:28,501] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:4e321f2e-031d-4065-9786-1216f78eee28: [MISSING TITLE]
+[2025-05-16 06:32:28,501] WARNING [scanner.views] [MISSING TITLE] No title cached for page f862e25a-5c43-4f78-afac-deeeb2d2f7fa (https://vishal-038.github.io/Weather)
+[2025-05-16 06:32:28,502] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:f862e25a-5c43-4f78-afac-deeeb2d2f7fa: [MISSING TITLE]
+[2025-05-16 06:32:28,502] WARNING [scanner.views] [MISSING TITLE] No title cached for page e1c21cee-28bb-4fbb-a877-237769017990 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 06:32:28,502] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:e1c21cee-28bb-4fbb-a877-237769017990: [MISSING TITLE]
+[2025-05-16 06:32:28,502] WARNING [scanner.views] [MISSING TITLE] No title cached for page 359c4914-e6bc-4867-9cdd-ce3c24d10285 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 06:32:28,502] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: [MISSING TITLE]
+[2025-05-16 07:12:38,542] WARNING [scanner.views] [MISSING TITLE] No title cached for page 9dcac78e-619b-4fb4-bfc6-e4703a7d48aa (https://vishal-038.github.io/Weather)
+[2025-05-16 07:12:38,542] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:9dcac78e-619b-4fb4-bfc6-e4703a7d48aa: [MISSING TITLE]
+[2025-05-16 07:12:38,542] WARNING [scanner.views] [MISSING TITLE] No title cached for page e74bb5d1-c2f0-42f2-9a85-9d7489309ca7 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 07:12:38,543] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:e74bb5d1-c2f0-42f2-9a85-9d7489309ca7: [MISSING TITLE]
+[2025-05-16 07:12:38,543] WARNING [scanner.views] [MISSING TITLE] No title cached for page d4fe43b8-23ac-4713-98b7-e4540ff58f3c (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 07:12:38,543] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:d4fe43b8-23ac-4713-98b7-e4540ff58f3c: [MISSING TITLE]
+[2025-05-16 07:12:38,543] WARNING [scanner.views] [MISSING TITLE] No title cached for page 439782e9-0128-425d-9d2d-af431491519b (https://vishal-038.github.io/Weather)
+[2025-05-16 07:12:38,543] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:439782e9-0128-425d-9d2d-af431491519b: [MISSING TITLE]
+[2025-05-16 07:12:38,543] WARNING [scanner.views] [MISSING TITLE] No title cached for page d8de14b3-cb0c-4973-abf0-1e8f81526045 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 07:12:38,543] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:d8de14b3-cb0c-4973-abf0-1e8f81526045: [MISSING TITLE]
+[2025-05-16 07:12:38,543] WARNING [scanner.views] [MISSING TITLE] No title cached for page 4e321f2e-031d-4065-9786-1216f78eee28 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 07:12:38,543] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:4e321f2e-031d-4065-9786-1216f78eee28: [MISSING TITLE]
+[2025-05-16 07:12:38,543] WARNING [scanner.views] [MISSING TITLE] No title cached for page f862e25a-5c43-4f78-afac-deeeb2d2f7fa (https://vishal-038.github.io/Weather)
+[2025-05-16 07:12:38,543] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:f862e25a-5c43-4f78-afac-deeeb2d2f7fa: [MISSING TITLE]
+[2025-05-16 07:12:38,544] WARNING [scanner.views] [MISSING TITLE] No title cached for page e1c21cee-28bb-4fbb-a877-237769017990 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 07:12:38,544] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:e1c21cee-28bb-4fbb-a877-237769017990: [MISSING TITLE]
+[2025-05-16 07:12:38,544] WARNING [scanner.views] [MISSING TITLE] No title cached for page 359c4914-e6bc-4867-9cdd-ce3c24d10285 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 07:12:38,544] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: [MISSING TITLE]
+[2025-05-16 07:12:40,155] WARNING [scanner.views] [MISSING TITLE] No title cached for page 9dcac78e-619b-4fb4-bfc6-e4703a7d48aa (https://vishal-038.github.io/Weather)
+[2025-05-16 07:12:40,155] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:9dcac78e-619b-4fb4-bfc6-e4703a7d48aa: [MISSING TITLE]
+[2025-05-16 07:12:40,155] WARNING [scanner.views] [MISSING TITLE] No title cached for page e74bb5d1-c2f0-42f2-9a85-9d7489309ca7 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 07:12:40,155] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:e74bb5d1-c2f0-42f2-9a85-9d7489309ca7: [MISSING TITLE]
+[2025-05-16 07:12:40,155] WARNING [scanner.views] [MISSING TITLE] No title cached for page d4fe43b8-23ac-4713-98b7-e4540ff58f3c (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 07:12:40,155] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:d4fe43b8-23ac-4713-98b7-e4540ff58f3c: [MISSING TITLE]
+[2025-05-16 07:12:40,155] WARNING [scanner.views] [MISSING TITLE] No title cached for page 439782e9-0128-425d-9d2d-af431491519b (https://vishal-038.github.io/Weather)
+[2025-05-16 07:12:40,155] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:439782e9-0128-425d-9d2d-af431491519b: [MISSING TITLE]
+[2025-05-16 07:12:40,155] WARNING [scanner.views] [MISSING TITLE] No title cached for page d8de14b3-cb0c-4973-abf0-1e8f81526045 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 07:12:40,155] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:d8de14b3-cb0c-4973-abf0-1e8f81526045: [MISSING TITLE]
+[2025-05-16 07:12:40,155] WARNING [scanner.views] [MISSING TITLE] No title cached for page 4e321f2e-031d-4065-9786-1216f78eee28 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 07:12:40,155] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:4e321f2e-031d-4065-9786-1216f78eee28: [MISSING TITLE]
+[2025-05-16 07:12:40,155] WARNING [scanner.views] [MISSING TITLE] No title cached for page f862e25a-5c43-4f78-afac-deeeb2d2f7fa (https://vishal-038.github.io/Weather)
+[2025-05-16 07:12:40,156] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:f862e25a-5c43-4f78-afac-deeeb2d2f7fa: [MISSING TITLE]
+[2025-05-16 07:12:40,156] WARNING [scanner.views] [MISSING TITLE] No title cached for page e1c21cee-28bb-4fbb-a877-237769017990 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 07:12:40,156] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:e1c21cee-28bb-4fbb-a877-237769017990: [MISSING TITLE]
+[2025-05-16 07:12:40,156] WARNING [scanner.views] [MISSING TITLE] No title cached for page 359c4914-e6bc-4867-9cdd-ce3c24d10285 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 07:12:40,156] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: [MISSING TITLE]
+[2025-05-16 07:27:55,650] WARNING [scanner.views] [MISSING TITLE] No title cached for page 9dcac78e-619b-4fb4-bfc6-e4703a7d48aa (https://vishal-038.github.io/Weather)
+[2025-05-16 07:27:55,650] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:9dcac78e-619b-4fb4-bfc6-e4703a7d48aa: [MISSING TITLE]
+[2025-05-16 07:27:55,650] WARNING [scanner.views] [MISSING TITLE] No title cached for page e74bb5d1-c2f0-42f2-9a85-9d7489309ca7 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 07:27:55,650] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:e74bb5d1-c2f0-42f2-9a85-9d7489309ca7: [MISSING TITLE]
+[2025-05-16 07:27:55,650] WARNING [scanner.views] [MISSING TITLE] No title cached for page d4fe43b8-23ac-4713-98b7-e4540ff58f3c (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 07:27:55,650] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:d4fe43b8-23ac-4713-98b7-e4540ff58f3c: [MISSING TITLE]
+[2025-05-16 07:27:55,650] WARNING [scanner.views] [MISSING TITLE] No title cached for page 439782e9-0128-425d-9d2d-af431491519b (https://vishal-038.github.io/Weather)
+[2025-05-16 07:27:55,650] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:439782e9-0128-425d-9d2d-af431491519b: [MISSING TITLE]
+[2025-05-16 07:27:55,651] WARNING [scanner.views] [MISSING TITLE] No title cached for page d8de14b3-cb0c-4973-abf0-1e8f81526045 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 07:27:55,651] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:d8de14b3-cb0c-4973-abf0-1e8f81526045: [MISSING TITLE]
+[2025-05-16 07:27:55,651] WARNING [scanner.views] [MISSING TITLE] No title cached for page 4e321f2e-031d-4065-9786-1216f78eee28 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 07:27:55,651] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:4e321f2e-031d-4065-9786-1216f78eee28: [MISSING TITLE]
+[2025-05-16 07:27:55,651] WARNING [scanner.views] [MISSING TITLE] No title cached for page f862e25a-5c43-4f78-afac-deeeb2d2f7fa (https://vishal-038.github.io/Weather)
+[2025-05-16 07:27:55,651] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:f862e25a-5c43-4f78-afac-deeeb2d2f7fa: [MISSING TITLE]
+[2025-05-16 07:27:55,651] WARNING [scanner.views] [MISSING TITLE] No title cached for page e1c21cee-28bb-4fbb-a877-237769017990 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 07:27:55,651] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:e1c21cee-28bb-4fbb-a877-237769017990: [MISSING TITLE]
+[2025-05-16 07:27:55,651] WARNING [scanner.views] [MISSING TITLE] No title cached for page 359c4914-e6bc-4867-9cdd-ce3c24d10285 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 07:27:55,651] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: [MISSING TITLE]
+[2025-05-16 07:27:57,248] WARNING [scanner.views] [MISSING TITLE] No title cached for page 9dcac78e-619b-4fb4-bfc6-e4703a7d48aa (https://vishal-038.github.io/Weather)
+[2025-05-16 07:27:57,248] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:9dcac78e-619b-4fb4-bfc6-e4703a7d48aa: [MISSING TITLE]
+[2025-05-16 07:27:57,248] WARNING [scanner.views] [MISSING TITLE] No title cached for page e74bb5d1-c2f0-42f2-9a85-9d7489309ca7 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 07:27:57,248] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:e74bb5d1-c2f0-42f2-9a85-9d7489309ca7: [MISSING TITLE]
+[2025-05-16 07:27:57,248] WARNING [scanner.views] [MISSING TITLE] No title cached for page d4fe43b8-23ac-4713-98b7-e4540ff58f3c (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 07:27:57,248] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:d4fe43b8-23ac-4713-98b7-e4540ff58f3c: [MISSING TITLE]
+[2025-05-16 07:27:57,248] WARNING [scanner.views] [MISSING TITLE] No title cached for page 439782e9-0128-425d-9d2d-af431491519b (https://vishal-038.github.io/Weather)
+[2025-05-16 07:27:57,248] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:439782e9-0128-425d-9d2d-af431491519b: [MISSING TITLE]
+[2025-05-16 07:27:57,249] WARNING [scanner.views] [MISSING TITLE] No title cached for page d8de14b3-cb0c-4973-abf0-1e8f81526045 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 07:27:57,249] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:d8de14b3-cb0c-4973-abf0-1e8f81526045: [MISSING TITLE]
+[2025-05-16 07:27:57,249] WARNING [scanner.views] [MISSING TITLE] No title cached for page 4e321f2e-031d-4065-9786-1216f78eee28 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 07:27:57,249] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:4e321f2e-031d-4065-9786-1216f78eee28: [MISSING TITLE]
+[2025-05-16 07:27:57,249] WARNING [scanner.views] [MISSING TITLE] No title cached for page f862e25a-5c43-4f78-afac-deeeb2d2f7fa (https://vishal-038.github.io/Weather)
+[2025-05-16 07:27:57,249] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:f862e25a-5c43-4f78-afac-deeeb2d2f7fa: [MISSING TITLE]
+[2025-05-16 07:27:57,249] WARNING [scanner.views] [MISSING TITLE] No title cached for page e1c21cee-28bb-4fbb-a877-237769017990 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 07:27:57,249] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:e1c21cee-28bb-4fbb-a877-237769017990: [MISSING TITLE]
+[2025-05-16 07:27:57,250] WARNING [scanner.views] [MISSING TITLE] No title cached for page 359c4914-e6bc-4867-9cdd-ce3c24d10285 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 07:27:57,250] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: [MISSING TITLE]
+[2025-05-16 10:52:57,103] WARNING [scanner.views] [MISSING TITLE] No title cached for page 9dcac78e-619b-4fb4-bfc6-e4703a7d48aa (https://vishal-038.github.io/Weather)
+[2025-05-16 10:52:57,103] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:9dcac78e-619b-4fb4-bfc6-e4703a7d48aa: [MISSING TITLE]
+[2025-05-16 10:52:57,103] WARNING [scanner.views] [MISSING TITLE] No title cached for page e74bb5d1-c2f0-42f2-9a85-9d7489309ca7 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 10:52:57,103] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:e74bb5d1-c2f0-42f2-9a85-9d7489309ca7: [MISSING TITLE]
+[2025-05-16 10:52:57,103] WARNING [scanner.views] [MISSING TITLE] No title cached for page d4fe43b8-23ac-4713-98b7-e4540ff58f3c (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 10:52:57,103] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:d4fe43b8-23ac-4713-98b7-e4540ff58f3c: [MISSING TITLE]
+[2025-05-16 10:52:57,103] WARNING [scanner.views] [MISSING TITLE] No title cached for page 439782e9-0128-425d-9d2d-af431491519b (https://vishal-038.github.io/Weather)
+[2025-05-16 10:52:57,103] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:439782e9-0128-425d-9d2d-af431491519b: [MISSING TITLE]
+[2025-05-16 10:52:57,103] WARNING [scanner.views] [MISSING TITLE] No title cached for page d8de14b3-cb0c-4973-abf0-1e8f81526045 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 10:52:57,103] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:d8de14b3-cb0c-4973-abf0-1e8f81526045: [MISSING TITLE]
+[2025-05-16 10:52:57,103] WARNING [scanner.views] [MISSING TITLE] No title cached for page 4e321f2e-031d-4065-9786-1216f78eee28 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 10:52:57,103] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:4e321f2e-031d-4065-9786-1216f78eee28: [MISSING TITLE]
+[2025-05-16 10:52:57,103] WARNING [scanner.views] [MISSING TITLE] No title cached for page f862e25a-5c43-4f78-afac-deeeb2d2f7fa (https://vishal-038.github.io/Weather)
+[2025-05-16 10:52:57,103] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:f862e25a-5c43-4f78-afac-deeeb2d2f7fa: [MISSING TITLE]
+[2025-05-16 10:52:57,103] WARNING [scanner.views] [MISSING TITLE] No title cached for page e1c21cee-28bb-4fbb-a877-237769017990 (https://vishal-038.github.io/Weather/about.html)
+[2025-05-16 10:52:57,103] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:e1c21cee-28bb-4fbb-a877-237769017990: [MISSING TITLE]
+[2025-05-16 10:52:57,103] WARNING [scanner.views] [MISSING TITLE] No title cached for page 359c4914-e6bc-4867-9cdd-ce3c24d10285 (https://vishal-038.github.io/Weather/index.html)
+[2025-05-16 10:52:57,104] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:359c4914-e6bc-4867-9cdd-ce3c24d10285: [MISSING TITLE]
+[2025-05-16 15:35:27,682] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Weather/ (06cfd395-8714-4400-b94f-3d5dc2098394)
+[2025-05-16 15:35:27,682] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Weather/
+[2025-05-16 15:40:45,070] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Weather/ (06cfd395-8714-4400-b94f-3d5dc2098394)
+[2025-05-16 15:40:45,071] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Weather/
+[2025-05-16 15:41:40,498] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Weather/ (06cfd395-8714-4400-b94f-3d5dc2098394)
+[2025-05-16 15:41:40,499] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Weather/
+[2025-05-16 15:47:27,195] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Weather/ (06cfd395-8714-4400-b94f-3d5dc2098394)
+[2025-05-16 15:47:27,196] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Weather/
+[2025-05-16 15:48:19,578] INFO [scanner.views] Created site: https://vishal-038.github.io/Portfolio__/ (8d86d20b-da77-4714-9bc5-39578f997b5e)
+[2025-05-16 15:48:19,578] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Portfolio__/
+[2025-05-16 15:51:40,978] INFO [scanner.views] Fetched site: https://vishal-038.github.io/Weather/ (06cfd395-8714-4400-b94f-3d5dc2098394)
+[2025-05-16 15:51:40,979] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Weather/
+[2025-05-16 15:51:41,242] INFO [scanner] Cached title for https://vishal-038.github.io/Weather with key page_title:374af80d-64ed-4dbc-be49-f58666bc95d9
+[2025-05-16 15:51:41,620] INFO [scanner] Cached title for https://vishal-038.github.io/Weather/about.html with key page_title:2d02df3f-7eac-4bf5-80a6-8ba26a0be56c
+[2025-05-16 15:51:42,128] INFO [scanner] Cached title for https://vishal-038.github.io/Weather/index.html with key page_title:c31c4143-f285-4bac-aca0-9db87a7355e0
+[2025-05-16 15:51:56,067] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:c31c4143-f285-4bac-aca0-9db87a7355e0: Weather
+[2025-05-16 15:51:56,067] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:2d02df3f-7eac-4bf5-80a6-8ba26a0be56c: ABOUT WEATHER
+[2025-05-16 15:51:56,067] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:374af80d-64ed-4dbc-be49-f58666bc95d9: Weather
+[2025-05-16 15:52:23,572] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:c31c4143-f285-4bac-aca0-9db87a7355e0: Weather
+[2025-05-16 15:52:23,572] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:2d02df3f-7eac-4bf5-80a6-8ba26a0be56c: ABOUT WEATHER
+[2025-05-16 15:52:23,572] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:374af80d-64ed-4dbc-be49-f58666bc95d9: Weather
+[2025-05-16 16:59:23,026] INFO [scanner.views] Updated site: https://vishal-038.github.io/Weather/ (06cfd395-8714-4400-b94f-3d5dc2098394)
+[2025-05-16 16:59:23,026] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Weather/
+[2025-05-16 16:59:23,070] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:c31c4143-f285-4bac-aca0-9db87a7355e0: Weather
+[2025-05-16 16:59:23,070] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:2d02df3f-7eac-4bf5-80a6-8ba26a0be56c: ABOUT WEATHER
+[2025-05-16 16:59:23,070] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:374af80d-64ed-4dbc-be49-f58666bc95d9: Weather
+[2025-05-16 17:00:01,814] INFO [scanner] Cached title for https://vishal-038.github.io/Weather with key page_title:9cb152bf-c282-4a39-90ff-026d0c8449c5
+[2025-05-16 17:00:02,131] INFO [scanner] Cached title for https://vishal-038.github.io/Weather/about.html with key page_title:0ed820d3-a89b-4551-9eb3-efbc9b54c4b7
+[2025-05-16 17:00:02,450] INFO [scanner] Cached title for https://vishal-038.github.io/Weather/index.html with key page_title:b5632303-4323-43bd-b89f-ca0d67266a94
+[2025-05-16 17:17:50,922] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:b5632303-4323-43bd-b89f-ca0d67266a94: Weather
+[2025-05-16 17:17:50,922] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:0ed820d3-a89b-4551-9eb3-efbc9b54c4b7: ABOUT WEATHER
+[2025-05-16 17:17:50,923] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:9cb152bf-c282-4a39-90ff-026d0c8449c5: Weather
+[2025-05-16 17:17:50,923] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:c31c4143-f285-4bac-aca0-9db87a7355e0: Weather
+[2025-05-16 17:17:50,923] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:2d02df3f-7eac-4bf5-80a6-8ba26a0be56c: ABOUT WEATHER
+[2025-05-16 17:17:50,923] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:374af80d-64ed-4dbc-be49-f58666bc95d9: Weather
+[2025-05-16 17:18:05,907] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:b5632303-4323-43bd-b89f-ca0d67266a94: Weather
+[2025-05-16 17:18:05,907] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:0ed820d3-a89b-4551-9eb3-efbc9b54c4b7: ABOUT WEATHER
+[2025-05-16 17:18:05,907] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:9cb152bf-c282-4a39-90ff-026d0c8449c5: Weather
+[2025-05-16 17:18:05,907] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:c31c4143-f285-4bac-aca0-9db87a7355e0: Weather
+[2025-05-16 17:18:05,908] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:2d02df3f-7eac-4bf5-80a6-8ba26a0be56c: ABOUT WEATHER
+[2025-05-16 17:18:05,908] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:374af80d-64ed-4dbc-be49-f58666bc95d9: Weather
+[2025-05-16 17:25:15,108] INFO [scanner.views] Updated site: https://vishal-038.github.io/Portfolio__/ (8d86d20b-da77-4714-9bc5-39578f997b5e)
+[2025-05-16 17:25:15,110] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Portfolio__/
+[2025-05-16 17:26:07,704] INFO [scanner.views] Updated site: https://vishal-038.github.io/Weather/ (06cfd395-8714-4400-b94f-3d5dc2098394)
+[2025-05-16 17:26:07,705] INFO [scanner.views] Scheduled scraper job for: https://vishal-038.github.io/Weather/
+[2025-05-16 17:26:07,717] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:b5632303-4323-43bd-b89f-ca0d67266a94: Weather
+[2025-05-16 17:26:07,717] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:0ed820d3-a89b-4551-9eb3-efbc9b54c4b7: ABOUT WEATHER
+[2025-05-16 17:26:07,717] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:9cb152bf-c282-4a39-90ff-026d0c8449c5: Weather
+[2025-05-16 17:26:07,718] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:c31c4143-f285-4bac-aca0-9db87a7355e0: Weather
+[2025-05-16 17:26:07,718] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:2d02df3f-7eac-4bf5-80a6-8ba26a0be56c: ABOUT WEATHER
+[2025-05-16 17:26:07,718] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:374af80d-64ed-4dbc-be49-f58666bc95d9: Weather
+[2025-05-16 17:26:10,005] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:b5632303-4323-43bd-b89f-ca0d67266a94: Weather
+[2025-05-16 17:26:10,005] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:0ed820d3-a89b-4551-9eb3-efbc9b54c4b7: ABOUT WEATHER
+[2025-05-16 17:26:10,005] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:9cb152bf-c282-4a39-90ff-026d0c8449c5: Weather
+[2025-05-16 17:26:10,005] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:c31c4143-f285-4bac-aca0-9db87a7355e0: Weather
+[2025-05-16 17:26:10,005] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:2d02df3f-7eac-4bf5-80a6-8ba26a0be56c: ABOUT WEATHER
+[2025-05-16 17:26:10,005] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:374af80d-64ed-4dbc-be49-f58666bc95d9: Weather
+[2025-05-16 17:37:18,497] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:b5632303-4323-43bd-b89f-ca0d67266a94: Weather
+[2025-05-16 17:37:18,498] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:0ed820d3-a89b-4551-9eb3-efbc9b54c4b7: ABOUT WEATHER
+[2025-05-16 17:37:18,498] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:9cb152bf-c282-4a39-90ff-026d0c8449c5: Weather
+[2025-05-16 17:37:18,498] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/index.html with key page_title:c31c4143-f285-4bac-aca0-9db87a7355e0: Weather
+[2025-05-16 17:37:18,504] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather/about.html with key page_title:2d02df3f-7eac-4bf5-80a6-8ba26a0be56c: ABOUT WEATHER
+[2025-05-16 17:37:18,504] INFO [scanner.views] Fetching title from cache for https://vishal-038.github.io/Weather with key page_title:374af80d-64ed-4dbc-be49-f58666bc95d9: Weather
+[2025-05-17 04:30:54,186] ERROR [scanner.views] Error during site creation or job scheduling
+Traceback (most recent call last):
+  File "/home/vishal/Desktop/cyber/scanner/views.py", line 48, in home
+    scheduleScraperJob(site.url, site.uid, freq)
+TypeError: scheduleScraperJob() takes 2 positional arguments but 3 were given
+[2025-05-17 04:41:28,813] INFO [scanner.views] [HOME POST] Received site: https://vishal-038.github.io/Weather/, frequency: hourly
+[2025-05-17 04:41:28,822] INFO [scanner.views] [HOME] Existing site found: https://vishal-038.github.io/Weather/
+[2025-05-17 04:41:28,823] INFO [scanner.views] [HOME] Scraper job scheduled for https://vishal-038.github.io/Weather/ with frequency hourly
+[2025-05-17 04:41:28,871] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 04:41:57,270] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 04:54:24,636] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 04:54:39,417] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 04:55:10,034] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 04:55:11,725] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 04:55:14,259] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 04:57:22,130] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 05:19:06,008] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 05:19:17,289] INFO [scanner.views] [HOME POST] Received site: https://vishal-038.github.io/Portfolio__/, frequency: daily
+[2025-05-17 05:19:17,297] INFO [scanner.views] [HOME] Existing site found: https://vishal-038.github.io/Portfolio__/
+[2025-05-17 05:19:17,297] INFO [scanner.views] [HOME] Updating frequency for https://vishal-038.github.io/Portfolio__/ to daily
+[2025-05-17 05:19:17,302] INFO [scanner.views] [HOME] Scraper job scheduled for https://vishal-038.github.io/Portfolio__/ with frequency daily
+[2025-05-17 05:19:17,312] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Portfolio__/
+[2025-05-17 05:19:17,315] INFO [scanner.views] [CACHE] Title fetched for 6728163b-ba46-4015-92fb-e50309d95b3c
+[2025-05-17 05:19:20,712] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Portfolio__/
+[2025-05-17 05:19:20,713] INFO [scanner.views] [CACHE] Title fetched for 6728163b-ba46-4015-92fb-e50309d95b3c
+[2025-05-17 05:19:52,787] INFO [scanner.views] [HOME POST] Received site: https://vishal-038.github.io/Weather/, frequency: hourly
+[2025-05-17 05:19:52,797] INFO [scanner.views] [HOME] Existing site found: https://vishal-038.github.io/Weather/
+[2025-05-17 05:19:52,798] INFO [scanner.views] [HOME] Scraper job scheduled for https://vishal-038.github.io/Weather/ with frequency hourly
+[2025-05-17 05:19:52,808] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 05:20:13,049] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 05:21:29,177] INFO [scanner.tasks] [CELERY TASK STARTED] Scraping https://vishal-038.github.io/Weather/ (06cfd395-8714-4400-b94f-3d5dc2098394)
+[2025-05-17 05:21:29,177] INFO [scanner] [RUNNER] Running scraper for https://vishal-038.github.io/Weather/ (siteId: 06cfd395-8714-4400-b94f-3d5dc2098394)
+[2025-05-17 05:21:29,178] INFO [scanner] [SCRAPE] Starting scrape for https://vishal-038.github.io/Weather/ (siteId: 06cfd395-8714-4400-b94f-3d5dc2098394)
+[2025-05-17 05:21:29,178] INFO [scanner] [DB] Connecting to PostgreSQL...
+[2025-05-17 05:21:29,205] INFO [scanner] [FETCH] Attempting to fetch: https://vishal-038.github.io/Weather
+[2025-05-17 05:21:31,009] INFO [scanner] [FETCH] Success: https://vishal-038.github.io/Weather
+[2025-05-17 05:21:31,010] INFO [scanner] [SAVE] Saving page: https://vishal-038.github.io/Weather
+[2025-05-17 05:21:31,017] ERROR [scanner.tasks] [CELERY TASK FAILED] Error scraping https://vishal-038.github.io/Weather/ (06cfd395-8714-4400-b94f-3d5dc2098394): insert or update on table "scanner_webpage" violates foreign key constraint "scanner_webpage_website_id_698fbb55_fk_scanner_m"
+DETAIL:  Key (website_id)=(06cfd395-8714-4400-b94f-3d5dc2098394) is not present in table "scanner_monitoredwebsite".
+[2025-05-17 05:24:56,702] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Portfolio__/
+[2025-05-17 05:24:56,704] INFO [scanner.views] [CACHE] Title fetched for 6728163b-ba46-4015-92fb-e50309d95b3c
+[2025-05-17 05:24:59,390] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 05:28:02,258] INFO [scanner.tasks] [CELERY TASK STARTED] Scraping https://vishal-038.github.io/Weather/ (d9766c31-ef48-4beb-9b39-d3ff15d7dc62)
+[2025-05-17 05:28:02,258] INFO [scanner] [RUNNER] Running scraper for https://vishal-038.github.io/Weather/ (siteId: d9766c31-ef48-4beb-9b39-d3ff15d7dc62)
+[2025-05-17 05:28:02,259] INFO [scanner] [SCRAPE] Starting scrape for https://vishal-038.github.io/Weather/ (siteId: d9766c31-ef48-4beb-9b39-d3ff15d7dc62)
+[2025-05-17 05:28:02,259] INFO [scanner] [DB] Connecting to PostgreSQL...
+[2025-05-17 05:28:02,288] INFO [scanner] [FETCH] Attempting to fetch: https://vishal-038.github.io/Weather
+[2025-05-17 05:28:02,757] INFO [scanner] [FETCH] Success: https://vishal-038.github.io/Weather
+[2025-05-17 05:28:02,758] INFO [scanner] [SAVE] Saving page: https://vishal-038.github.io/Weather
+[2025-05-17 05:28:02,780] INFO [scanner] [CACHE] Cached title for https://vishal-038.github.io/Weather: Weather
+[2025-05-17 05:28:02,781] INFO [scanner] [LINKS] Extracting links from: https://vishal-038.github.io/Weather/
+[2025-05-17 05:28:02,786] INFO [scanner] [LINKS] Found 1 internal links.
+[2025-05-17 05:28:02,786] DEBUG [scanner] [QUEUE] Adding to queue: https://vishal-038.github.io/Weather/about.html
+[2025-05-17 05:28:02,786] INFO [scanner] [FETCH] Attempting to fetch: https://vishal-038.github.io/Weather/about.html
+[2025-05-17 05:28:03,106] INFO [scanner] [FETCH] Success: https://vishal-038.github.io/Weather/about.html
+[2025-05-17 05:28:03,108] INFO [scanner] [SAVE] Saving page: https://vishal-038.github.io/Weather/about.html
+[2025-05-17 05:28:03,115] INFO [scanner] [CACHE] Cached title for https://vishal-038.github.io/Weather/about.html: ABOUT WEATHER
+[2025-05-17 05:28:03,115] INFO [scanner] [LINKS] Extracting links from: https://vishal-038.github.io/Weather/
+[2025-05-17 05:28:03,117] INFO [scanner] [LINKS] Found 1 internal links.
+[2025-05-17 05:28:03,117] DEBUG [scanner] [QUEUE] Adding to queue: https://vishal-038.github.io/Weather/index.html
+[2025-05-17 05:28:03,117] INFO [scanner] [FETCH] Attempting to fetch: https://vishal-038.github.io/Weather/index.html
+[2025-05-17 05:28:03,515] INFO [scanner] [FETCH] Success: https://vishal-038.github.io/Weather/index.html
+[2025-05-17 05:28:03,516] INFO [scanner] [SAVE] Saving page: https://vishal-038.github.io/Weather/index.html
+[2025-05-17 05:28:03,529] INFO [scanner] [CACHE] Cached title for https://vishal-038.github.io/Weather/index.html: Weather
+[2025-05-17 05:28:03,530] INFO [scanner] [LINKS] Extracting links from: https://vishal-038.github.io/Weather/
+[2025-05-17 05:28:03,534] INFO [scanner] [LINKS] Found 1 internal links.
+[2025-05-17 05:28:03,536] INFO [scanner] [SCRAPE COMPLETE] Total pages scraped: 3
+[2025-05-17 05:28:03,537] INFO [scanner.tasks] [CELERY TASK SUCCESS] Finished scraping https://vishal-038.github.io/Weather/ (d9766c31-ef48-4beb-9b39-d3ff15d7dc62)
+[2025-05-17 05:28:11,597] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Portfolio__/
+[2025-05-17 05:28:11,600] INFO [scanner.views] [CACHE] Title fetched for 6728163b-ba46-4015-92fb-e50309d95b3c
+[2025-05-17 05:28:14,446] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 05:28:14,448] INFO [scanner.views] [CACHE] Title fetched for 8de1e93e-07f5-42d1-bddb-d12e504aadeb
+[2025-05-17 05:28:14,448] INFO [scanner.views] [CACHE] Title fetched for c74fac46-972c-4c02-a396-3d862c04e2fc
+[2025-05-17 05:28:14,449] INFO [scanner.views] [CACHE] Title fetched for 38105658-4231-4c6b-b6d3-05d712a9f74e
+[2025-05-17 05:33:32,321] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 05:33:32,324] INFO [scanner.views] [CACHE] Title fetched for 8de1e93e-07f5-42d1-bddb-d12e504aadeb
+[2025-05-17 05:33:32,324] INFO [scanner.views] [CACHE] Title fetched for c74fac46-972c-4c02-a396-3d862c04e2fc
+[2025-05-17 05:33:32,324] INFO [scanner.views] [CACHE] Title fetched for 38105658-4231-4c6b-b6d3-05d712a9f74e
+[2025-05-17 05:38:07,211] INFO [scanner.views] [HOME POST] Received site: https://vishal-038.github.io/Weather/, frequency: hourly
+[2025-05-17 05:38:07,219] INFO [scanner.views] [HOME] Existing site found: https://vishal-038.github.io/Weather/
+[2025-05-17 05:38:07,220] INFO [scanner.views] [HOME] Scraper job scheduled for https://vishal-038.github.io/Weather/ with frequency hourly
+[2025-05-17 05:38:07,230] INFO [scanner.views] [STATUS] Viewing status for site: https://vishal-038.github.io/Weather/
+[2025-05-17 05:38:07,232] INFO [scanner.views] [CACHE] Title fetched for 8de1e93e-07f5-42d1-bddb-d12e504aadeb
+[2025-05-17 05:38:07,232] INFO [scanner.views] [CACHE] Title fetched for c74fac46-972c-4c02-a396-3d862c04e2fc
+[2025-05-17 05:38:07,232] INFO [scanner.views] [CACHE] Title fetched for 38105658-4231-4c6b-b6d3-05d712a9f74e
